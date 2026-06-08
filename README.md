@@ -4,6 +4,8 @@ Business Analytics / BI / Data Analyst candidate focused on Power BI, SQL, Pytho
 
 I am completing a B.S. in Business Analytics at Oregon State University and building toward roles where analytics needs to become repeatable: KPI reporting, data quality checks, dashboarding, workflow automation, and decision-support tools.
 
+Current target roles: Data Analyst, Business Intelligence Analyst, Business Analyst, Financial Analyst, Market Data Analyst, and analytics automation roles.
+
 ## Current Focus
 
 - Business intelligence and KPI reporting
@@ -16,7 +18,7 @@ I am completing a B.S. in Business Analytics at Oregon State University and buil
 
 - Portfolio: https://www.michaelspanico.com
 - Gemini/Codex durable context workflow docs: https://github.com/mp2123/Gemini_Codex_Project_1_Docs
-- Future public proof shells for portfolio, Resume_Crafter, local transcription automation, homelab runbooks, and market-data analytics
+- Additional public proof shells will be added only after privacy review and sanitized examples are ready.
 
 ## Tools
 
@@ -24,9 +26,13 @@ Power BI, DAX, Power Query, SQL, Python, pandas, scikit-learn, Excel/VBA, Next.j
 
 ## Public Data Boundary
 
-Public projects use public, synthetic, or sanitized data. Private resumes, Avnet proprietary details, banking/Plaid/Schwab data, credentials, local machine configuration, transcripts, and private job-search records are not included in public repos.
+Public projects use public, synthetic, or sanitized data. Employer proprietary context, private financial data, credentials, local machine configuration, raw transcripts, private resumes, and job-search records are not included in public repos.
 
 ## Current Direction
 
 My strongest current fit is BI/data analytics, business analytics, financial data analytics, market-data analytics, and analytics automation. Quant trader, quant developer, and professional quant researcher roles are future/stretch directions, not current professional claims.
 
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/michaelspanico
+- Portfolio: https://www.michaelspanico.com
