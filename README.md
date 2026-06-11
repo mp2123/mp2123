@@ -17,8 +17,12 @@ Current target roles: Data Analyst, Business Intelligence Analyst, Business Anal
 ## Featured Work
 
 - Portfolio: https://www.michaelspanico.com
-- Gemini/Codex durable context workflow docs: https://github.com/mp2123/Gemini_Codex_Project_1_Docs
-- Additional public proof shells will be added only after privacy review and sanitized examples are ready.
+- Portfolio Website Docs: https://github.com/mp2123/Portfolio-Website-Docs
+- Gemini/Codex Workflow Docs: https://github.com/mp2123/Gemini_Codex_Project_1_Docs
+- Market Data Dashboard Docs: https://github.com/mp2123/Market-Data-Dashboard-Docs
+- Institutional Market Data Engine Docs: https://github.com/mp2123/Institutional-Market-Data-Engine-Docs
+- QuantStrat ML Docs: https://github.com/mp2123/QuantStrat-ML-Docs
+- Personal Finance Automation Docs: https://github.com/mp2123/Personal-Finance-Automation-Docs
 
 ## Tools
 
@@ -27,6 +31,8 @@ Power BI, DAX, Power Query, SQL, Python, pandas, scikit-learn, Excel/VBA, Next.j
 ## Public Data Boundary
 
 Public projects use public, synthetic, or sanitized data. Employer proprietary context, private financial data, credentials, local machine configuration, raw transcripts, private resumes, and job-search records are not included in public repos.
+
+Most implementation repos are intentionally private. Public `*-Docs` repos are short proof shells that explain the project, architecture, validation approach, and privacy boundaries without exposing private source code, credentials, local runtime paths, or sensitive data.
 
 ## Current Direction
 
