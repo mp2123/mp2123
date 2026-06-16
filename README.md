@@ -19,6 +19,7 @@ Current target roles: Data Analyst, Business Intelligence Analyst, Business Anal
 - Portfolio: https://www.michaelspanico.com
 - Portfolio Website Docs: https://github.com/mp2123/Portfolio-Website-Docs
 - Gemini/Codex Workflow Docs: https://github.com/mp2123/Gemini_Codex_Project_1_Docs
+- Market & Quant Analytics Lab Docs: https://github.com/mp2123/Market-Quant-Analytics-Lab-Docs
 - Market Data Dashboard Docs: https://github.com/mp2123/Market-Data-Dashboard-Docs
 - Institutional Market Data Engine Docs: https://github.com/mp2123/Institutional-Market-Data-Engine-Docs
 - QuantStrat ML Docs: https://github.com/mp2123/QuantStrat-ML-Docs
