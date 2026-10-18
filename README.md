@@ -2,7 +2,7 @@
 
 Business Analytics / BI / Data Analyst candidate focused on Power BI, SQL, Python, workflow automation, financial data, market data, fintech, and quant-adjacent analytics.
 
-I am completing a B.S. in Business Analytics at Oregon State University and building toward roles where analytics needs to become repeatable: KPI reporting, data quality checks, dashboarding, workflow automation, and decision-support tools.
+I am based in the Greater Chicago Area and completing a B.S. in Business Analytics at Oregon State University, expected June 2027, with a focus on market research and consumer analytics. I work on repeatable analytics through KPI reporting, data quality checks, dashboarding, workflow automation, and decision-support tools.
 
 Current target roles: Data Analyst, Business Intelligence Analyst, Business Analyst, Financial Analyst, Market Data Analyst, and analytics automation roles.
 
