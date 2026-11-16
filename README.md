@@ -1,45 +1,36 @@
 # Michael Panico
 
-Business Analytics / BI / Data Analyst candidate focused on Power BI, SQL, Python, workflow automation, financial data, market data, fintech, and quant-adjacent analytics.
+**Business analytics, BI & workflow automation** | Power BI · SQL · Python
 
-I am based in the Greater Chicago Area and completing a B.S. in Business Analytics at Oregon State University, expected June 2027, with a focus on market research and consumer analytics. I work on repeatable analytics through KPI reporting, data quality checks, dashboarding, workflow automation, and decision-support tools.
+Based in the Greater Chicago Area and completing a B.S. in Business Analytics at Oregon State University, expected June 2027. I focus on turning messy data and recurring work into useful reporting, repeatable workflows, and decision-support tools.
 
-Current target roles: Data Analyst, Business Intelligence Analyst, Business Analyst, Financial Analyst, Market Data Analyst, and analytics automation roles.
+My strongest current fit is in BI, data/business analytics, operations analytics, and analytics automation. I am also exploring financial data, market-data research, and AI-assisted development workflows.
 
-## Current Focus
+## Start here
 
-- Business intelligence and KPI reporting
-- Financial data and market-data analytics
-- Analytics automation and repeatable reporting workflows
-- Applied Python / scikit-learn projects
-- Public-safe project documentation and validation discipline
+- **[Analytics portfolio](https://www.michaelspanico.com)**: Avnet reporting and automation experience, dashboard work, and applied analytics projects. Command Center refers to Avnet's internal analytics and reporting hub.
+- **[Applied analytics projects](https://www.michaelspanico.com/projects)**: classification, regression, text analytics, data modeling, and the methods and limitations behind the work.
+- **[Gemini/Codex workflow documentation](https://github.com/mp2123/Gemini_Codex_Project_1_Docs)**: agent handoffs, durable context, workflow structure, and validation gates. This is public documentation, not a complete runnable implementation.
+- **[Portfolio website documentation](https://github.com/mp2123/Portfolio-Website-Docs)**: an overview of the website and its implementation approach.
 
-## Featured Work
+## Experience & tools
 
-- Portfolio: https://www.michaelspanico.com
-- Portfolio Website Docs: https://github.com/mp2123/Portfolio-Website-Docs
-- Gemini/Codex Workflow Docs: https://github.com/mp2123/Gemini_Codex_Project_1_Docs
-- Market & Quant Analytics Lab Docs: https://github.com/mp2123/Market-Quant-Analytics-Lab-Docs
-- Market Data Dashboard Docs: https://github.com/mp2123/Market-Data-Dashboard-Docs
-- Institutional Market Data Engine Docs: https://github.com/mp2123/Institutional-Market-Data-Engine-Docs
-- QuantStrat ML Docs: https://github.com/mp2123/QuantStrat-ML-Docs
-- Personal Finance Automation Docs: https://github.com/mp2123/Personal-Finance-Automation-Docs
+At Avnet, my work included Power BI dashboards, Power Query transformations, DAX measures, recurring reporting, and VBA automation. My Follow-Ups automation reduced preparation from 4–5 hours to 15–30 minutes per cycle. It enabled expanded data and recipient coverage that would have required about 20 hours/week manually; that figure is estimated workload at the expanded scope, not measured savings.
 
-## Tools
+Tools across my work and projects: Power BI, DAX, Power Query/M, SQL, Python, pandas, scikit-learn, Excel/VBA, Next.js, and Git.
 
-Power BI, DAX, Power Query, SQL, Python, pandas, scikit-learn, Excel/VBA, Next.js, Git, workflow automation tools, and documentation-driven development practices.
+## Finance & market-data project documentation
 
-## Public Data Boundary
+- [Market & Quant Analytics Lab](https://github.com/mp2123/Market-Quant-Analytics-Lab-Docs)
+- [Market Data Dashboard](https://github.com/mp2123/Market-Data-Dashboard-Docs)
+- [Institutional Market Data Engine](https://github.com/mp2123/Institutional-Market-Data-Engine-Docs)
+- [QuantStrat ML](https://github.com/mp2123/QuantStrat-ML-Docs)
+- [Personal Finance Automation](https://github.com/mp2123/Personal-Finance-Automation-Docs)
 
-Public projects use public, synthetic, or sanitized data. Employer proprietary context, private financial data, credentials, local machine configuration, raw transcripts, private resumes, and job-search records are not included in public repos.
+These are documentation and research surfaces, not claims of completed production systems or professional quant-trading experience.
 
-Most implementation repos are intentionally private. Public `*-Docs` repos are short proof shells that explain the project, architecture, validation approach, and privacy boundaries without exposing private source code, credentials, local runtime paths, or sensitive data.
+## Public work & privacy
 
-## Current Direction
+Most implementation repositories remain private. Public documentation describes project scope, architecture, and validation approaches; it does not imply that source code or a runnable demo is available. Public examples use public, synthetic, or sanitized data. Employer-proprietary data, private financial information, credentials, and personal records stay private.
 
-My strongest current fit is BI/data analytics, business analytics, financial data analytics, market-data analytics, and analytics automation. Quant trader, quant developer, and professional quant researcher roles are future/stretch directions, not current professional claims.
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/michaelspanico
-- Portfolio: https://www.michaelspanico.com
+[LinkedIn](https://www.linkedin.com/in/michaelspanico) · [Portfolio](https://www.michaelspanico.com)
