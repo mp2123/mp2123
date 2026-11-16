@@ -1,3 +1,5 @@
+<p><img src="assets/linkedin-banner.png" alt="Business Intelligence — Reporting Automation and Data Analytics; Power BI, Excel/VBA and Python" width="100%" /></p>
+
 # Michael Panico
 
 **Business analytics, BI & workflow automation** | Power BI · SQL · Python
