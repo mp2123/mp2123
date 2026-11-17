@@ -13,7 +13,6 @@ My strongest current fit is in BI, data/business analytics, operations analytics
 - **[Analytics portfolio](https://www.michaelspanico.com)**: Avnet reporting and automation experience, dashboard work, and applied analytics projects. Command Center refers to Avnet's internal analytics and reporting hub.
 - **[Applied analytics projects](https://www.michaelspanico.com/projects)**: classification, regression, text analytics, data modeling, and the methods and limitations behind the work.
 - **[Gemini/Codex workflow documentation](https://github.com/mp2123/Gemini_Codex_Project_1_Docs)**: agent handoffs, durable context, workflow structure, and validation gates. This is public documentation, not a complete runnable implementation.
-- **[Portfolio website documentation](https://github.com/mp2123/Portfolio-Website-Docs)**: an overview of the website and its implementation approach.
 
 ## Experience & tools
 
